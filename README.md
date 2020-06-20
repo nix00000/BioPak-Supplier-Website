@@ -1,4 +1,7 @@
-# BioPak-Supplier-Website
+# BioPak Packagin Solutions - Supplier Website
+
+**Website for a made-up supplier of bio-degradable packaging solutions. Company founded in 1991 that seeks to 
+move a part of the ordering system online.**
   
 ## Description  
 
