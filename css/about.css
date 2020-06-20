@@ -1,0 +1,20 @@
+hr{
+  border-color: darkgrey;
+}
+.aboutus{
+  min-height:600px;
+}
+
+.aboutus a {
+  text-decoration: none;
+}
+.aboutus a:hover{
+  color: green;
+}
+
+.old{
+  color: blue;
+}
+.added {
+  color: green;
+}

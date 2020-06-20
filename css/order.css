@@ -1,0 +1,40 @@
+body{
+  min-height:950px;
+}
+
+.ord-cont{
+  padding: 40px;
+  font-size: 1.2em;
+}
+
+
+.inp-bsc{
+  display: block;
+}
+.inp-std{
+  display: none;
+}
+.inp-prm{
+  display: none;
+}
+
+.delv-inp{
+  width: 60px;
+  text-align: center;
+  margin-left: 10px;
+  border-radius: 3px;
+  padding: 0 5px;
+}
+
+.prc{
+  font-size: 1.3em;
+}
+
+.pos-msg{
+  color:green;
+
+}
+.neg-msg{
+  color:red;
+  
+}

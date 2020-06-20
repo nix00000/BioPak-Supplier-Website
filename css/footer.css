@@ -1,0 +1,115 @@
+a{
+  text-decoration: none;
+  color:white;
+}
+a:hover{
+  text-decoration: none;
+  color:lightgrey;
+}
+
+
+p{
+  font-size: 18px;
+}
+
+
+.end-links{
+  padding: 20px 0;
+}
+
+
+/* Social Icons */
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+
+.fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+
+/* View ports */
+
+/* Extra Small */
+@media (max-width: 576px){
+  .end-links{
+    height:1000px;
+  }
+
+}
+/* Small */
+@media (min-width: 576px){
+  .end-links{
+    height:350px;
+
+  }
+
+}
+/* Medium */
+@media (min-width: 768px){
+  .end-links{
+    height:360px;
+  }
+}
+
+/* Large */
+@media (min-width: 992px){
+  .end-links{
+    height:360px;
+  }
+}
+
+/* ExtraLarge */
+@media (min-width: 1200px){
+  .end-links{
+    height:360px;
+  }
+}
+
+/* End of view ports */

@@ -1,0 +1,44 @@
+.ver-center{
+  min-height: 300px;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapping{
+  padding:50px;
+  min-width: 430px;
+  background-color: lightgrey;
+}
+
+.form-row{
+  margin-top: 7px;
+}
+
+.imag{
+  font-size: 40px;
+  width:80%;
+  margin: auto;
+}
+.imag a{
+  text-decoration: none;
+  color:black;
+}
+
+.imag a:hover{
+  text-decoration: none;
+  color:black;
+}
+.imag img {
+  height:100px;
+}
+
+/* Messages */
+
+.neg-msg{
+  color:red;
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 20px;
+}

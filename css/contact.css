@@ -1,0 +1,9 @@
+.hours img{
+  height:60%;
+  min-height:212px;
+  width:60%;
+  min-width:270px;
+  display: block;
+  margin: auto;
+
+}

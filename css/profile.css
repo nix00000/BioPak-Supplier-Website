@@ -1,0 +1,107 @@
+/* Extra Small */
+@media (max-width: 576px){
+  .pref-it{
+    text-align: center;
+  }
+
+}
+/* Small */
+@media (min-width: 576px){
+  .pref-it{
+    text-align: center;
+  }
+
+}
+/* Medium */
+@media (min-width: 768px){
+  .pref-it{
+    margin-left: 10px;
+  }
+}
+
+/* Large */
+@media (min-width: 992px){
+  .pref-it{
+    text-align: center;
+    margin-left: 30px;
+  }
+}
+
+/* ExtraLarge */
+@media (min-width: 1200px){
+  .pref-it{
+    text-align: center;
+    margin-left: 50px;
+  }
+}
+body{
+  min-height:950px;
+}
+.user-p-cont{
+  min-height: 600px;
+  margin-top: 30px;
+  padding:20px;
+
+}
+.user-p{
+  padding:20px;
+  min-width: 400px;
+}
+
+.ord-items{
+  min-height: 400px;
+  min-width: 415px;
+  padding: 10px;
+}
+.items{
+  min-height: 310px;
+  overflow-y: scroll;
+
+}
+.item-div{
+  padding: 20px;
+  font-weight: bold;
+  background-color: #99bbff;
+  min-width: 515px;
+}
+.item-div p {
+  margin: 10px 0 0 0;
+}
+.item-txt{
+  margin:0;
+}
+
+.acc-pref{
+  min-height: 230px;
+  min-width: 400px;
+  padding: 10px;
+}
+.wrap-em-ch{
+  display: none;
+}
+.wrap-pas-ch{
+  display: none;
+}
+
+.msg{
+  display: block;
+}
+
+.till-ord{
+  margin-bottom: 0;
+}
+
+
+
+/* messages */
+
+.pos-msg{
+  color:green;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.neg-msg{
+  color:red;
+  font-size: 20px;
+  margin-bottom: 20px;
+}

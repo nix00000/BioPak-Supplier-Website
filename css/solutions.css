@@ -1,0 +1,72 @@
+body{
+
+}
+.sol-head{
+  height:400px;
+  padding: 70px 0 0 0;
+  margin-bottom: 30px;
+
+}
+.sol-head h2{
+  font-size: 2.4em;
+}
+
+.sol-head h4{
+  font-size: 2em;
+}
+
+
+.wrap{
+  width:40%;
+  min-width:400px;
+  margin: auto;
+  padding: 30px;
+}
+
+
+.resp img{
+  height:100%;
+  width:70%;
+}
+.measures{
+  margin: 60px auto;
+  margin-bottom: 150px;
+}
+.measure{
+  margin-left: 80px;
+}
+
+.track{
+  background-color: lightgrey;
+}
+
+.wrapper img{
+  width: 60%;
+  height: 90%;
+  display: block;
+  margin:auto;
+  border-radius: 10%;
+
+}
+
+.wrapper-txt p{
+  font-size: 1.6em;
+  color:white;
+  font-weight: bold;
+}
+
+
+.thework img{
+  width: 85%;
+  height: 80%;
+  display: block;
+  margin:auto;
+  border-radius: 10%;
+
+}
+
+.thework-txt p{
+  font-size: 1.3em;
+  color:blue;
+  font-weight: bold;
+}

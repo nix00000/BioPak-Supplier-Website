@@ -1,0 +1,33 @@
+body{
+  background-color: #f8f9fa;
+}
+.prod-cont{
+  padding: 20px;
+}
+.prod-cont h2{
+  margin:0;
+}
+
+.prod-cont img{
+  height:300px;
+  width:300px;
+  border-radius: 30%;
+  border:2px solid black;
+
+}
+.header-img{
+  height:250px;
+  width:100%;
+}
+
+.lis ul{
+  list-style-type: none;
+}
+
+.bg-lightinfo{
+  background-color: #19b4cc;
+}
+
+.card:hover{
+  opacity:0.6;
+}

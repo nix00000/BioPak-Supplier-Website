@@ -1,0 +1,21 @@
+@media screen and (min-width: 576px) {
+  .acc-btn{
+    margin: 0;
+  }
+
+}
+
+.nav-logo-txt {
+  font-size: 1.3em;
+  margin: 5px 0 0 0;
+  display: inline;
+}
+.navbar-brand img {
+  height:50px;
+  width:50px;
+  font-size: 1.3em;
+
+}
+.navbar {
+  font-size: 1.3em;
+}

@@ -1,0 +1,20 @@
+.prods{
+  margin: 80px auto;
+  margin-bottom: 180px;
+  padding: 40px;
+}
+.premium {
+  background-color: #cc00cc;
+}
+.premium img{
+  height: 215px;
+}
+
+.card{
+  margin: 5px;
+  min-width: 300px;
+
+}
+.card h5 {
+  text-align: center;
+}

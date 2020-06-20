@@ -1,0 +1,39 @@
+.ver-center{
+  min-height: 300px;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapping{
+  padding:50px;
+  min-width: 450px;
+  background-color: lightgrey;
+}
+
+.form-row{
+  margin-top: 7px;
+}
+
+.imag{
+  font-size: 40px;
+  width:75%;
+  margin: auto;
+}
+.imag a{
+  text-decoration: none;
+  color:black;
+}
+
+.imag a:hover{
+  text-decoration: none;
+  color:black;
+}
+.imag img {
+  height:100px;
+}
+
+.msg{
+  color:red;
+}

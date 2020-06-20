@@ -1,0 +1,47 @@
+.acc-cont{
+  padding: 20px 0 50px 20px;
+}
+.accounts{
+  width: 100%;
+  height:600px;
+  overflow-y: scroll;
+  padding: 0 30px 20px 30px;
+}
+
+.acc{
+  border: 1px solid black;
+  padding: 15px;
+  background-color: lightblue;
+  margin: 25px auto;
+  min-width: 230px;
+}
+.acc h5{
+  font-size: 23px;
+}
+
+
+.orders{
+  width: 100%;
+  height:620px;
+  overflow-y: scroll;
+  padding: 0 30px 20px 30px;
+}
+
+.ord{
+  border: 1px solid black;
+  padding: 15px;
+  background-color: lightblue;
+  margin: 25px auto;
+  min-width: 230px;
+}
+
+.pos-msg{
+  color:green;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.neg-msg{
+  color:red;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
